@@ -21,7 +21,7 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 
 ### 1. Data Cleaning & Preparation
 
-- Categorized `Income` into bands:
+- Categorized `Income` into bands
   - `Low`
   - `Mid`
   - `High`
